@@ -1,2 +1,1 @@
-# alx-low_level_programming
-alx low level programing language tasks
+readme file for this directory
